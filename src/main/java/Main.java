@@ -10,8 +10,8 @@ import static utils.KeyManager.getErrorMessage;
 
 public class Main {
     private static String 彩蛋总数 = "3";
-    private static final String REPOSITORY_URL = "https://github.com/XuanLingJingYue/RegisterQA";
-    private static final String VERSION = "1.0.3";
+    private static final String REPOSITORY_URL = "https://github.com/ZouGuoDaHuang/RegisterQA";
+    private static final String VERSION = "1.0.4";
     private static final String WELCOME_BANNER =
             "  _____            _     _             ____            \n" +
                     " |  __ \\          (_)   | |           / __ \\     /\\    \n" +

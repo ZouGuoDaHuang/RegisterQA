@@ -7,7 +7,7 @@ public class KeyManager {
     private static final Random RANDOM = new Random();
 
     private static boolean isDeveloperName(String name){
-        return name.equalsIgnoreCase("XuanLingJingYue") || name.equals("玄灵鲸跃");
+        return name.equalsIgnoreCase("XuanLingJingYue") || name.equals("玄灵鲸跃") || name.equalsIgnoreCase("ZouGuoDaHuang") || name.equals("走过大荒");
     }
 
     public static String getErrorMessage(int errorCode) {
